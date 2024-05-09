@@ -21,7 +21,7 @@
   </br>
 
   ![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=MJMMB&show_icons=true&theme=radical)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mjmmbandeira@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mjmmbandeira@gmail.com)
 
 
 
